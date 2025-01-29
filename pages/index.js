@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Aguarde...1 </h1>;
+  return <h1>Aguarde... em breve estaremos online!</h1>;
 }
 
 export default Home;
